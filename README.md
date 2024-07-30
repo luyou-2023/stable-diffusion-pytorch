@@ -1,3 +1,4 @@
+# 运行成功
 # stable-diffusion-pytorch
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjsman/stable-diffusion-pytorch/blob/main/demo.ipynb)
